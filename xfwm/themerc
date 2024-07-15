@@ -1,0 +1,25 @@
+# SunView/SunWin didn't have any title buttons.
+button_layout=|
+
+# :Title:
+# Sunview had a set title position, but some would like the poistion to be elsewere
+# title_alignment=left
+
+# offset, need to see it in action for any needed adjustments
+
+title_horizontal_offset=2
+
+title_vertical_offset_active=2
+title_vertical_offset_inactive=2
+
+# title-text color would be the same…
+active_text_color=#FFFFFF
+inactive_text_color=#FFFFFF
+
+# this was way before OSX.
+title_shadow_active=false
+title_shadow_active=false
+
+shadow_delta_x=6
+shadow_delta_y=6
+shadow_opacity=100
