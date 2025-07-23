@@ -3,7 +3,7 @@ button_layout=|
 
 # :Title:
 # Sunview had a set title position, but some would like the poistion to be elsewere
-# title_alignment=left
+title_alignment=left
 
 # offset, need to see it in action for any needed adjustments
 

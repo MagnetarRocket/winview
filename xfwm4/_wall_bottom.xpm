@@ -3,7 +3,7 @@ static char *wall_bottom[] = {
 /* columns rows colors chars-per-pixel */
 "5 1 2 1",
 "  c black",
-". c gray100",
+". c white",
 /* pixels */
 "  .  "
 };
