@@ -1,2 +1,3 @@
 https://ice-wm.org/themes/#what-is-an-icewm-theme
 https://wiki.xfce.org/howto/xfwm4_theme#themerc_file
+https://openbox.org/help/Themes
