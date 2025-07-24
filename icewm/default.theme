@@ -1,0 +1,20 @@
+Name="WinView"
+
+ThemeDescripton="A theme that attempts to closely mimic the SunView/SunWin appearance"
+
+ThemeAuthor=""
+
+Look = flat
+TitleBarJoinLeft=1
+
+OpaqueMove=0
+OpaqueResize=0
+GrabRootWindow=0
+HideBordersMaximized=0
+ShowMoveSizeStatus=0
+
+TitleButtonsLeft=""
+TitleButtonsRight=""
+TitleBarJustify=0
+
+TitleBarHeight=25
