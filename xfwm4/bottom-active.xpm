@@ -1,9 +1,12 @@
 /* XPM */
-static char *wall_bottom[] = {
+static char *wall_active_bottom[] = {
 /* columns rows colors chars-per-pixel */
-"5 1 2 1",
+"1 5 1 1",
 "  c black",
-". c white",
 /* pixels */
-"  .  "
+" ",
+" ",
+" ",
+" ",
+" "
 };

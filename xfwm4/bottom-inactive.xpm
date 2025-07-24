@@ -5,9 +5,9 @@ static char *wall_bottom[] = {
 "  c black",
 ". c white",
 /* pixels */
-" "
-" "
-"."
-" "
+" ",
+" ",
+".".
+" ",
 " "
 };
