@@ -22,4 +22,4 @@ title_shadow_active=false
 
 shadow_delta_x=6
 shadow_delta_y=6
-shadow_opacity=100
+shadow_opacity=0
