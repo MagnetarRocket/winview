@@ -1,0 +1,40 @@
+#	This is for openbox
+
+#	Geometry:
+
+# Windows:
+padding.width: 5
+padding.height: 2
+border.width: 5
+window.handle.width: 5
+
+# Menu
+menu.border.width:2
+menu.overlap.x:10
+
+#	Colors:
+
+# active
+window.active.border.color: black
+window.active.label.text.color:white
+window.active.button.unpressed.image.color: white
+window.active.button.pressed.image.color: black
+
+# inactive
+window.inactive.border.color: black
+window.inactive.label.text.color:white
+window.inactive.button.unpressed.image.color: white
+window.inactive.button.pressed.image.color: black
+
+#etc
+osd.border.color: black
+
+
+#menu
+menu.title.text.color: white
+menu.border.color: white
+menu.items.text.color: black
+menu.items.disabled.text.color: grey
+menu.items.active.text.color: white
+menu.items.active.disabled.text.color: grey
+menu.separator.color: black

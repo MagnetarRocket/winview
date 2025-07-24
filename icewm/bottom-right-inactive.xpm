@@ -1,0 +1,13 @@
+/* XPM */
+static char *corner_left[] = {
+/* columns rows colors chars-per-pixel */
+"5 5 2 1",
+"  c black",
+". c gray100",
+/* pixels */
+"  .  ",
+"  .  ",
+"...  ",
+"     ",
+"     "
+};
