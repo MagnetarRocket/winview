@@ -6,15 +6,42 @@ ThemeAuthor=""
 
 Look = flat
 TitleBarJoinLeft=1
+TrayDrawBevel=0
+TaskbarKeepBelow=1
+pagerShowPreview=1
 
 OpaqueMove=0
 OpaqueResize=0
 GrabRootWindow=0
 HideBordersMaximized=0
-ShowMoveSizeStatus=0
+ShowMoveSizeStatus=1
 
 TitleButtonsLeft=""
 TitleButtonsRight=""
 TitleBarJustify=0
 
 TitleBarHeight=25
+
+#	Hues:
+ColorNormalMenu=#ffffff
+ColorNormalMenuItemText=#000000
+ColorActiveMenuItem=#000000
+ColorActiveMenuItemText=#ffffff
+
+ColorNormalBorder=#000000
+ColorActiveBorder=#000000
+ColorActiveTitlebar=#000000
+ColorActiveTitlebarText=#ffffff
+ColorNormalTitleBar=#000000
+ColorNormalTitleBarText=#ffffff
+
+ColorDefaultTaskbar=#000000
+ColorNormalTaskbarApp=#000000
+ColorNormalTaskbarAppText=#ffffff
+ColorActiveTaskbarApp=#ffffff
+ColorActiveTaskbarAppText=#000000
+
+ColorMoveSizeStatus=#ffffff
+ColorMoveSizeStatusText=#000000
+
+#	Fonts:
